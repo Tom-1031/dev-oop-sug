@@ -1,5 +1,5 @@
 <?php
-
+//this is coment
 class Fare {
     private $age;
     private $distance;
